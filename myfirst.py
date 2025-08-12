@@ -21,3 +21,4 @@ print("\nSum of", a, "and", b, "is:", sum_result)
 
 user_input = input("\nEnter your favorite color: ")
 print("Wow! I like", user_input, "too.")
+
